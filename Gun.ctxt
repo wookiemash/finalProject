@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Gun
+comment0.text=\r\n\ A\ gun\ is\ a\ subclass\ of\ the\ RangedWeapons\ class.\r\n\ Fires\ projectiles\ of\ the\ type\ bullet\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Gun()
+comment1.text=\r\n\ constructor\ -\ set\ the\ image\ of\ the\ gun\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Will\ attach\ itself\ to\ the\ Character\r\n\ and\ rotate\ to\ wherever\ the\ mouse\ is\ facing.\r\n\ Will\ fire\ a\ bullet\ whenever\ the\ space\ key\ is\ pressed.\r\n
+numComments=3

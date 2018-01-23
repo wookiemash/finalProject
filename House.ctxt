@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\r\n\ An\ image\ of\ a\ house\ to\ appear\ as\ if\ enemies\ are\ being\ spawned\ out\ of\r\n\ \r\n\ @author\ Matthew\ Holmes\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=House()
+comment1.text=\r\n\ constructor\ -\ set\ scale\ of\ the\ house\r\n
+numComments=2

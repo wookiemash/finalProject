@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Weapons
+comment0.text=\r\n\ Main\ class\ for\ base\ weapon\ functionality\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Weapons()
+comment1.text=\r\n\ constructor\ -\ initialize\ the\ weapon's\ damage,\ size,\ and\ attack\ rate\r\n
+comment2.params=width\ height
+comment2.target=void\ size(int,\ int)
+comment2.text=\r\n\ size\ -\ set\ the\ size\ of\ the\ weapon\r\n
+comment3.params=
+comment3.target=void\ attack()
+comment3.text=\r\n\ attack\ -\ attacks\ an\ enemy\ it\ collides\ with\r\n
+comment4.params=
+comment4.target=void\ attach()
+comment4.text=\r\n\ \ attach\ -\ move\ the\ this.weapon\ ontop\ of\ the\ character\ so\ the\ character\ appears\ to\ be\ holding\ it\r\n
+numComments=5

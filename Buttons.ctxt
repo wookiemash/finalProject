@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Buttons
+comment0.text=\r\n\ Creates\ the\ main\ functionality\ of\ all\ buttons\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=mouse\ choice\ position
+comment1.target=boolean\ didClick(greenfoot.MouseInfo,\ java.lang.String,\ int)
+comment1.text=\r\n\ \ checks\ ifthe\ mouse\ is\ over\ and\ clicking\ on\ a\ button.\r\n\ \ if\ it\ is,\ run\ the\ appropriate\ action\ from\ the\ subclass\r\n
+numComments=2

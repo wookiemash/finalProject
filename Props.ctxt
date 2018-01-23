@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Props
+comment0.text=\r\n\ Main\ class\ for\ all\ of\ the\ props\ in\ the\ world\r\n\ Props\ do\ NOT\ affect\ gameplay\ in\ any\ way\r\n\ and\ are\ only\ added\ for\ a\ cosmetic\ touch\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=width\ height
+comment1.target=void\ size(int,\ int)
+comment1.text=\r\n\ size\ -\ allow\ each\ prop\ to\ pass\ in\ its\ desired\r\n\ size\ (for\ the\ image)\ and\ update\ it\ accordingly\r\n
+numComments=2

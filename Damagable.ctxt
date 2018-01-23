@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Damagable
+comment0.text=\r\n\ The\ Super\ class\ for\ all\ characters\ and\ enemies\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Damagable()
+comment1.text=\r\n\ constructor\ -\ set\ the\ health\ of\ all\ actors\ who\ take\ damage\r\n
+comment2.params=damageAmount
+comment2.target=boolean\ damage(int)
+comment2.text=\r\n\ damage\ -\ takes\ in\ the\ damage\ amount\ and\ takes\ it\ away\ from\ the\r\n\ players\ health.\ If\ the\ health\ is\ less\ than\ or\ equal\ to\ 1,\ remove\r\n\ the\ character\ or\ enemy\ from\ the\ map\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ The\ main\ menu\ of\ the\ game\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Constructor\ for\ the\ menu\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ prepare\ -\ adds\ all\ the\ buttons\ to\ the\ menu\ world\r\n
+comment3.params=countryName
+comment3.target=void\ setCountryName(java.lang.String)
+comment3.text=\r\n\ setCountryName\ -\ sets\ the\ name\ of\ the\ country\ the\ character\ is\ going\ to\ spawn\ in.\r\n
+comment4.params=
+comment4.target=void\ createSurvivalWorld()
+comment4.text=\r\n\ createSurvivalWorld\ -\ spawns\ the\ survivalWorld\ and\ passes\ the\ name\ of\ the\ country\ that\r\n\ the\ character\ is\ going\ to\ be\ playing\ in.\ enemies\ are\ based\ off\ this\ parameter.\r\n
+numComments=5

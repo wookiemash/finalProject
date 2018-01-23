@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PickUps
+comment0.text=\r\n\ The\ main\ class\ for\ all\ pickups\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=void\ pickedUp()
+comment1.text=\r\n\ pickedUp\ -\ called\ whenever\ an\ item\ is\ picked\ up.\r\n\ asks\ the\ world\ to\ tell\ the\ user\ the\ name\ of\ the\ \r\n\ item\ the\ user\ just\ walked\ over\ in-game.\r\n
+comment2.params=
+comment2.target=int\ setRadius()
+comment2.text=\r\n\ setRadius\ -\ set\ the\ radius\ for\ which\ the\ enemies\ search\ when\ this\ object\ is\ picked\ up.\r\n
+comment3.params=width\ height
+comment3.target=void\ size(int,\ int)
+comment3.text=\r\n\ size\ -\ set\ the\ size\ of\ the\ pickup\r\n
+numComments=4

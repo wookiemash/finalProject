@@ -1,0 +1,67 @@
+		**required production fixes**
+
+enemies
+	- create max number
+	-better spawning of objects in world
+
+weapons
+
+bullets
+	- find slope and move the bullets off of that
+
+ui
+	-health
+	-score /total items
+	-item picked up
+
+		**better code - not neccassary**
+hud
+	-spawn bars every tick to prevent objects from going ontop
+
+mouse
+	-hide
+	-add unique pointer
+
+set up score system
+	- loose screen
+	- win screen
+	- restart
+
+enemies
+	- look into intitialize function
+	- backpedling not smooth
+
+character
+	-tweak damage
+
+weapons
+	-tweak damages
+
+		**completed**
+
+get images working
+	- set proper imaging for all classes
+	-sprites
+
+character
+	- make the character take damage
+	- gun is not working.. spawn in a gun moron
+
+create level selector in menu
+
+comments....
+	- name/version
+
+enemies
+	- make the enemies have different defaults based on world
+	-searching
+		- radius broken
+		- make the enemies search area a circle instead of a square - pythagorean thereom
+	-fix enemies movement
+		- not turning	
+
+weapons
+	- rangedweapons
+		- set the image of bullets as needed
+		- rotation screwed on bullets
+		--rotations

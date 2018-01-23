@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RangedWeapons
+comment0.text=\r\n\ SuperClass\ for\ all\ ranged\ weapons\r\n\ \r\n\ @author\ Matthew\ Holmes\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=void\ checkFire()
+comment1.text=\r\n\ checkFire\ -\ check\ if\ the\ user\ tried\ to\ fire.\ if\ yes\ fire\ the\ specified\ bullet\r\n
+numComments=2

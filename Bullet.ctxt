@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Inherits\ from\ the\ Projectiles\ class\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=rotation\ lifeTime\ damageAmount\ scale\ speed\ multiHit\ projectile
+comment1.target=Bullet(int,\ int,\ int,\ int,\ int,\ boolean,\ greenfoot.GreenfootImage)
+comment1.text=\r\n\ constructor\ -\ \ initializes\ the\ bullet\ to\ whatever\ it\ should\ be\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ Destruct()
+comment3.text=\r\n\ Destruct\ -\ checks\ if\ the\ projectile\ should\ self\ destruct\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bow
+comment0.text=\r\n\ A\ Bow\ is\ a\ subclass\ of\ the\ RangedWeapons\ class.\r\n\ Fires\ projectiles\ of\ the\ type\ Arrow\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Bow()
+comment1.text=\r\n\ construtor\ -\ set\ the\ size\ of\ the\ bow\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ attach\ weapon\ to\ character\ and\ check\ if\ user\ tried\ to\ fire\r\n
+numComments=3

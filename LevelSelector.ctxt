@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelSelector
+comment0.text=\r\n\ choose\ the\ level\ the\ user\ wants\ to\ play\r\n\ \r\n\ @author\ Matthew\r\n\ @version\ Holmes\r\n
+comment1.params=
+comment1.target=LevelSelector()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ checks\ if\ the\ user\ clicked\ to\ change\ the\ level.\ If\ yes,\ update\ the\ game\ accordingly\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Quit
+comment0.text=\r\n\ Quites\ the\ game\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Quit()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ stops\ the\ game\ if\ the\ player\r\n\ clicks\ on\ the\ quite\ button.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=hudBackground
+comment0.text=\r\n\ the\ background\ for\ the\ text\ of\ the\ hud\ to\ go\ ontop\ of\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ V1\r\n
+comment1.params=width\ height
+comment1.target=hudBackground(int,\ int)
+comment1.text=\r\n\ constructor\ -\ set\ the\ scale\ of\ the\ button\r\n
+numComments=2

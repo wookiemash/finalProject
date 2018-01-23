@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SurvivalWorld
+comment0.text=\r\n\ The\ main\ world.\ Inititates\ the\ world\ and\ starts\ the\ game.\r\n\ Also,\ keeps\ track\ of\ the\ score\ and\ ends\ the\ game\r\n\ \r\n\ @author\ Matthew\ Holmes\r\n\ @version\ V1\r\n
+comment1.params=countryName
+comment1.target=SurvivalWorld(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Survival\ World\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Spawn\ enemies\ as\ necassary\ and\ checks\ if\ dispText\r\n\ needs\ to\ be\ set\ to\ null\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Populates\ the\ world\ with\ all\ the\ objects\ that\r\n\ need\ to\ be\ present\ at\ the\ beginning\ of\ the\ game\r\n
+comment4.params=
+comment4.target=void\ spawnEnemies()
+comment5.params=name\ dangerRadius
+comment5.target=void\ dispText(java.lang.String,\ int)
+comment5.text=\r\n\ dispText\ -\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getCountry()
+comment6.text=\r\n\ \ get\ the\ current\ country\ that\ the\ game\ is\ simulating\r\n
+comment7.params=
+comment7.target=void\ lost()
+comment7.text=\r\n\ runs\ if\ user\ looses\ the\ game.\r\n
+comment8.params=points
+comment8.target=void\ score(int)
+comment8.text=\r\n\ score\ -\ keeps\ the\ current\ score\ of\ the\ character\r\n
+numComments=9

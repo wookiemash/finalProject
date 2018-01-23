@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HouseBackground
+comment0.text=\r\n\ the\ border\ image\ of\ the\ house\r\n\ \r\n\ @author\ Matthew\ Holmes\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=HouseBackground()
+comment1.text=\r\n\ constructor\ -\ set\ scale\ of\ the\ houseBackground\r\n
+numComments=2

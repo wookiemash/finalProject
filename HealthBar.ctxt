@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ Shows\ the\ players\ health\ at\ the\ bottom\ of\ the\ screen\r\n\ \r\n\ @author\ Matthew\ Holmes\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=HealthBar()
+comment2.params=health
+comment2.target=void\ update(int)
+comment2.text=\r\n\ update\ the\ health\ bar\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ update\ the\ health\ bar\r\n
+numComments=4

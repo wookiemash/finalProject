@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Inherites\ from\ its\ Super\ class\ Damageable.\ The\ is\ the\ Object\ that\ \r\n\ the\ user\ will\ be\ controlling\ throughout\ the\ duration\ of\ the\ game.\ \ \r\n\ The\ Character\ can\ move\ around,\ control\ the\ mouse,\ and\ pick\ up\ items.\r\n\ \r\n\ @author\ Matthew\ Holmes\ \r\n\ @version\ V1\r\n
+comment1.params=
+comment1.target=Character()
+comment1.text=\r\n\ constructor\ -\ initialize\ character\ timers\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Checks\ if\ the\ User\ wants\ to\ move\ the\ Character,\r\n\ mouse,\ or\ has\ tried\ to\ pick\ up\ an\ item.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPressed()
+comment3.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment4.params=
+comment4.target=void\ isOverPickUp()
+comment4.text=\r\n\ check\ if\ the\ character\ has\ walked\ over\ an\r\n\ item\ and\ tried\ to\ interact\ with\ it.\ If\ \r\n\ yes,\ pickup\ item\ and\ alert\ the\ world\r\n
+comment5.params=
+comment5.target=void\ takeDamage()
+comment5.text=\r\n\ check\ if\ the\ character\ should\ take\ damage\ from\ an\ overlapping\ enemy\r\n
+comment6.params=isMovingLeft\ isMovingRight
+comment6.target=void\ animations(boolean,\ boolean)
+comment6.text=\r\n\ animations\ -\ set\ the\ character\ image\ based\ on\ certain\ conditions\r\n
+numComments=7
